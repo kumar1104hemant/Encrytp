@@ -1,4 +1,4 @@
-# THE-ENIGMA
+# THE-ENCRYTP
 ## TABLE OF CONTENT
 1. [INTRODUCTION](https://github.com/adijams01/The-ENIGMA/blob/main/README.md#introduction)
 2. [PREREQUISITE](https://github.com/adijams01/The-ENIGMA/blob/main/README.md#prerequisite)
