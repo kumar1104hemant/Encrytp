@@ -346,12 +346,7 @@ Animation was created by hardcoding frames and running it in a finite while loop
 2. It also can be improved for encryption and decryption of images. 
 3. It can also be improved for encryption and decryption of files.
 4. Key changing period can change as per convenience.
-## CREDITS
-This project was done by \
-[Prerna Sharma](https://github.com/prernasharma03) \
-[Aditya Jambhale](https://github.com/adijams01) \
-[Abuzer Ganjifrockwala](https://github.com/abuzEr-g) \
-[Ishan Bhat](https://github.com/Ishan2202) 
+
 ## REFERENCES
 1. [espeak](https://youtu.be/lC-i3Q-2KcY)
 2. [Beep](https://www.geeksforgeeks.org/beep-function-in-c-with-examples/)
